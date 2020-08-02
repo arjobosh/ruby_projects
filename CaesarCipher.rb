@@ -1,4 +1,4 @@
-# by joshua arber
+# By josh arber
 
 =begin
     Caesar's Cipher
@@ -7,6 +7,8 @@
 
     ex. caesar_cipher("What a string!", 5)
     => "Bmfy f xywnsl!"
+
+    # Assignment from The Odin Project
 =end
 
 def caesar_cipher(string="", factor=0)
